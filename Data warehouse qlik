@@ -1,2 +1,9 @@
 ALT returns the first valid parameter from the list
 alt(sales,0) or alt(margin,0) will substitute 0 for null values
+Load and select statment, steps of execution process of these statements as below
+Evaluation of expressions
+evaluation of as
+evaluation of alias
+Qualifying by field names
+Mapping of field name if data matches
+storing data into internal table
